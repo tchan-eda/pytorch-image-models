@@ -39,7 +39,7 @@ Hacked together by / Copyright 2022, Ross Wightman
 
 import math
 from collections import OrderedDict
-from dataclasses import dataclass, replace
+from dataclasses import dataclass, replace, field
 from functools import partial
 from typing import Callable, Optional, Union, Tuple, List
 
